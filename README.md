@@ -1,2 +1,2 @@
 # TeaComponentAnalysis
-Repository of raw data used by R.K. Nogueira in her research and base to our articles.
+Repository of raw data and codes used by R.K. Nogueira in her research and base to our articles.
